@@ -36,6 +36,4 @@
 
 ---
 
-## 🏅 Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joareum&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff)
+<!-- ## 🏅 Stats -->
