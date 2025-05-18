@@ -1,4 +1,6 @@
-<!-- ## 👋 Hi there -->
+## 👋 Hi there, I'm Areum.
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://melon-erica-d9e.notion.site/IT-_-10bb2a97058180f8bdb5fdcc74e9e3d7)
+
 
 ## 🛠️ Tech Stacks
 
@@ -31,8 +33,6 @@
 ---
 
 ## 🧑‍💻 Contact me
-
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://melon-erica-d9e.notion.site/IT-_-10bb2a97058180f8bdb5fdcc74e9e3d7)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:outsideegg@gmail.com)
 
 ---
